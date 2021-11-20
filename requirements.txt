@@ -7,3 +7,5 @@ matplotlib==3.2.2
 Pillow==8.3.2
 ipympl==0.7.0
 nodejs==0.1.1
+numpy-stl==2.16.3
+python-utils==2.5.6
